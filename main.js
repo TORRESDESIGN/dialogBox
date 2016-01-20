@@ -10,7 +10,7 @@ function CustomAlert (argument) {
 		dialogbox.style.left = (winW/2) - (550 * .5)+"px";
 		dialogbox.style.top = "200px";
 		dialogbox.style.display = "block";
-		document.getElementById('dialogboxhead').innerHTML = "Acknowledge This Message";
+		document.getElementById('dialogboxhead').innerHTML = "ALERT";
 		document.getElementById('dialogboxbody').innerHTML = dialog;
 		document.getElementById('dialogboxfoot').innerHTML ='<button onclick="Alert.ok()">OK</button>';
 	}
