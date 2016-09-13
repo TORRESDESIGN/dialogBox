@@ -21,6 +21,6 @@ body {
 	z-index: 10;
 }
 #dialogbox > div{ background: #FFF; margin: 8px; }
-#dialogbox > div > #dialogboxhead{ background: #666; font-style: normal;font-size: 90px; padding: 0px; color: #CCC; height: 100px; }
+#dialogbox > div > #dialogboxhead{ background: #666; font-style: normal;font-size: 90px; padding: 0px; color: #333; height: 100px; }
 #dialogbox > div > #dialogboxbody{ background: #333; padding: 20px; color: #FFF; height: 100px; }
 #dialogbox > div > #dialogboxfoot{ background: #666; padding: 10px; text-align: right; height: 100px; }
